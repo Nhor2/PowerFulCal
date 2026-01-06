@@ -1,0 +1,13 @@
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\PowerfulCal.exe.config
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\PowerfulCal.exe
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\PowerfulCal.pdb
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\PowerfulCal.xml
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.Form1.resources
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.Resources.resources
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.exe
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.xml
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.pdb
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\PowerfulCal.exe.config

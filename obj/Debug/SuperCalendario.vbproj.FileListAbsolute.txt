@@ -1,0 +1,13 @@
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\SuperCalendario.exe.config
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\SuperCalendario.exe
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\SuperCalendario.pdb
+C:\Users\lordm\source\repos2\SuperCalendario\bin\Debug\SuperCalendario.xml
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.Form1.resources
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.Resources.resources
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.exe
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.xml
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.pdb
+C:\Users\lordm\source\repos2\SuperCalendario\obj\Debug\SuperCalendario.exe.config

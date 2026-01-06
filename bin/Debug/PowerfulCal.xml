@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PowerfulCal
+</name>
+</assembly>
+<members>
+<member name="T:PowerfulCal.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:PowerfulCal.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:PowerfulCal.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="M:PowerfulCal.MoonPhaseCalculator.MoonPhase(System.Int32,System.Int32,System.Int32,System.Double,System.Int32@)">
+ <summary>
+ Calcola la fase lunare per una data specifica.
+ </summary>
+ <param name="year"></param>
+ <param name="month"></param>
+ <param name="day"></param>
+ <param name="hour">Ora decimale (es. 13.5 = 13:30)</param>
+ <param name="segment">OUT: indice segmento (0=Nuova, 4=Piena, ecc.)</param>
+ <returns>Percentuale visibile (0..1)</returns>
+</member>
+<member name="M:PowerfulCal.MoonPhaseCalculator.MoonPhaseName(System.Int32)">
+ <summary>
+ Restituisce il nome fase lunare in base al segmento (0-7)
+ </summary>
+</member>
+</members>
+</doc>

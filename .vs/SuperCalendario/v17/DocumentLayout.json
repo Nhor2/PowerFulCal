@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6F863-20A4-414D-A40C-F29141803E97}|SuperCalendario.vbproj|c:\\users\\lordm\\source\\repos2\\supercalendario\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFC6F863-20A4-414D-A40C-F29141803E97}|SuperCalendario.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6F863-20A4-414D-A40C-F29141803E97}|SuperCalendario.vbproj|C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CFC6F863-20A4-414D-A40C-F29141803E97}|SuperCalendario.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6F863-20A4-414D-A40C-F29141803E97}|SuperCalendario.vbproj|C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\moonphasecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CFC6F863-20A4-414D-A40C-F29141803E97}|SuperCalendario.vbproj|solutionrelative:moonphasecalculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoonPhaseCalculator.vb",
+              "DocumentMoniker": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\MoonPhaseCalculator.vb",
+              "RelativeDocumentMoniker": "MoonPhaseCalculator.vb",
+              "ToolTip": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\MoonPhaseCalculator.vb",
+              "RelativeToolTip": "MoonPhaseCalculator.vb",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T09:23:49.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAEcDAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T08:17:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\lordm\\source\\repos2\\SuperCalendario\\Form1.vb [Progettazione]",
+              "RelativeToolTip": "Form1.vb [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T08:11:28.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
