@@ -1,4 +1,4 @@
-### 📅 PowerFulCal
+# 📅 PowerFulCal
 
 PowerFulCal è un’applicazione desktop Windows sviluppata in VB.NET (Windows Forms – .NET Framework 4.8.1) per la creazione di calendari mensili e annuali con fasi lunari. Consente di selezionare anno e mese, generare il calendario corrispondente e stampare o salvare i risultati in diversi formati grafici.
 
@@ -10,7 +10,7 @@ PowerFulCal è un’applicazione desktop Windows sviluppata in VB.NET (Windows F
 🖨️ Stampa completa di tutti i mesi dell’anno
 📄 Esportazione in PDF e TIFF
 🖼️ Salvataggio delle singole immagini mensili in Bitmap (BMP)
-# 🖥️ Screenshot
+## 🖥️ Screenshot
 
 **Calendario mensile con fasi lunari**  
 ![Calendario mensile](screenshots/calendario_mensile.png)
