@@ -10,12 +10,14 @@ PowerFulCal è un’applicazione desktop Windows sviluppata in VB.NET (Windows F
 🖨️ Stampa completa di tutti i mesi dell’anno
 📄 Esportazione in PDF e TIFF
 🖼️ Salvataggio delle singole immagini mensili in Bitmap (BMP)
-🖥️ Screenshot
+## 🖥️ Screenshot
 
-Calendario mensile con fasi lunari
+**Calendario mensile con fasi lunari**  
+![Calendario mensile](screenshots/calendario_mensile.png)
 
+**Calendario delle sole Lune Piene**  
+![Lune piene](screenshots/lune_piene.png)
 
-Calendario delle sole Lune Piene
 
 
 🛠️ Tecnologie utilizzate
