@@ -34,35 +34,23 @@ IDE consigliato: Visual Studio 2019 / 2022
 
 ▶️ Avvio del progetto
 
-Clona il repository:
-
-git clone https://github.com/USERNAME/PowerFulCal.git
+Clona il repository: git clone https://github.com/USERNAME/PowerFulCal.git
 
 
-Apri il file .sln con Visual Studio
-
-Verifica il target .NET Framework 4.8.1
-
-Compila ed esegui il progetto
+Apri il file .sln con Visual Studio, Verifica il target .NET Framework 4.8.1 . Compila ed esegui il progetto
 
 📁 Struttura del progetto
 
 PowerFulCal/ → codice sorgente
-
 bin/, obj/ → file generati dalla compilazione
-
 screenshots/ → immagini dell’applicazione
-
 .sln → soluzione Visual Studio
-
 README.md → documentazione
 
 🖨️ Output supportati
 
 PDF → stampa annuale completa
-
 TIFF → stampa ad alta qualità
-
 BMP → immagini mensili singole
 
 🚧 Stato del progetto
@@ -70,5 +58,4 @@ BMP → immagini mensili singole
 🟡 In sviluppo / manutenzione
 
 📌 Note
-
 Il progetto è attualmente privato e destinato a uso personale o sperimentale.
