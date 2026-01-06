@@ -20,7 +20,7 @@ PowerFulCal è un’applicazione desktop Windows sviluppata in VB.NET (Windows F
 
 
 
-🛠️ Tecnologie utilizzate
+### 🛠️ Tecnologie utilizzate
 
 Linguaggio: VB.NET
 
@@ -32,14 +32,14 @@ Sistema operativo: Windows
 
 IDE consigliato: Visual Studio 2019 / 2022
 
-▶️ Avvio del progetto
+### ▶️ Avvio del progetto
 
 Clona il repository: git clone https://github.com/USERNAME/PowerFulCal.git
 
 
 Apri il file .sln con Visual Studio, Verifica il target .NET Framework 4.8.1 . Compila ed esegui il progetto
 
-📁 Struttura del progetto
+### 📁 Struttura del progetto
 
 PowerFulCal/ → codice sorgente
 bin/, obj/ → file generati dalla compilazione
@@ -47,15 +47,15 @@ screenshots/ → immagini dell’applicazione
 .sln → soluzione Visual Studio
 README.md → documentazione
 
-🖨️ Output supportati
+### 🖨️ Output supportati
 
 PDF → stampa annuale completa
 TIFF → stampa ad alta qualità
 BMP → immagini mensili singole
 
-🚧 Stato del progetto
+### 🚧 Stato del progetto
 
 🟡 In sviluppo / manutenzione
 
-📌 Note
-Il progetto è attualmente privato e destinato a uso personale o sperimentale.
+### 📌 Note
+Il progetto è attualmente destinato a uso personale o sperimentale.
